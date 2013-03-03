@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">simple BMI Calculator</string>
+    <string name="menu_settings">Settings</string>
+    <string name="height_label">Height (in Meters)</string>
+    <string name="weight_label">Weight (in Kilograms)</string>
+	<string name="calculate">Calculate</string>
+	<string name="about">Developed By: Arjun\nVersion: 2.0</string>
+	<string name="SI">SI</string>
+	<string name="US">US</string>
+	<string name="simple">simpleBMIcalc</string>
+	
+</resources>
